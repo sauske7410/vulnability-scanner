@@ -30,15 +30,25 @@ VulnScan is a lightweight, Python-based tool for performing basic security asses
 ##  Project Structure
 
 vulnscan/
+
 ├── scanner.py
+
 ├── output/
+
 │ └── report_<target>_<timestamp>.html
+
 ├── modules/
+
 │ ├── init.py
+
 │ ├── port_scanner.py
+
 │ ├── ssl_checker.py
+
 │ ├── vuln_tester.py
+
 │ └── report_generator.py
+
 └── README.md
 
 ---
