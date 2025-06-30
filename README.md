@@ -47,7 +47,7 @@ vulnscan/
 
  1. Clone or download the repo
 ```bash
-git clone https://github.com/your-username/vulnscan.git
+https://github.com/sauske7410/vulnability-scanner.git
 cd vulnscan
 
  2. Install dependencies
